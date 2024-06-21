@@ -6,6 +6,7 @@ The directory of software companies with remote-first culture. Directory managed
 | Company Name | Language | Remote in (countries/region) | Size (range) | Website | Careers Page | Tech Stack |
 | -------- | -------- | ------- | -------- | ------- | ------- | ------- |
 | Quickmail | English | EU | ~10 | [www](https://quickmail.com/) | [careers](https://quickmail.com/jobs) | Ruby, Rails, Python, Vue, React |
+| Sticker Mule | English | World | 50-200 | [www](www.stickermule.com) | [careers](https://www.stickermule.com/careers) | Ruby, Rails, Node.js, PostgreSQL, Sidekiq, Redis, React |
 | Ragnarson | Polish | EU (but negotiable) | 20 - 40 | [www](https://ragnarson.com/) | [careers](https://ragnarson.com/careers) | Ruby, Rails, Angular, GraphQL, Sidekiq |
  
 
