@@ -1,4 +1,4 @@
-# remote-first-companies
+# remote-first-software-companies
 The directory of software companies with remote-first culture. Directory managed by [devsonremote.com](https://devsonremote.com/).
 
 ## Direcotry:
