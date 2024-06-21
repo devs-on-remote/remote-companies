@@ -1,4 +1,4 @@
-# remote-first-software-companies
+# List of tech companies with remote-first culture
 The directory of software companies with remote-first culture. Directory managed by [devsonremote.com](https://devsonremote.com/).
 
 The goal of this list is to provide a quick overview of companies hiring developers remotely, inluding information on companies language, size, skills and area where remote work is allowed. This information should give a nice overview if the company is the right fit for u.
