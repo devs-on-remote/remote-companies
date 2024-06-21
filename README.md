@@ -3,7 +3,7 @@ The directory of software companies with remote-first culture. Directory managed
 
 The goal of this list is to provide a quick overview of companies hiring developers remotely, inluding information on companies language, size, skills and area where remote work is allowed. This information should give a nice overview if the company is the right fit for u.
 
-## Direcotry:
+## Directory:
 
 | Company Name | Language | Remote in (countries/region) | Size (range) | Website | Careers Page | Tech Stack |
 | -------- | -------- | ------- | -------- | ------- | ------- | ------- |
